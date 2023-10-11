@@ -119,4 +119,45 @@
 </html>
 ```
 
-## vue 中的 scoped
+
+
+## class 命名
+
+- 组件化
+
+``` html
+<div class="chat-notification">
+  <div class="chat-notification-logo-wrapper">
+    <img src="img/logo.svg"/>
+  </div>
+  <div class="chat-notification-content">
+    <h4 class="chat-notification-title">ChitChat</h4>
+    <p class="chat-notification-message">you have a message</p>
+  </div>
+</div>
+```
+
+- 原子化
+
+``` html
+<div class="p-6 max-w-sm mx-auto bg-white rounded-xl flex items-center space-x-4">
+  <div class="flex-shrink-0">
+    <img src="img/logo.svg"/>
+  </div>
+  <div>
+    <h4 class="text-xl font-medium text-black">ChitChat</h4>
+    <p class="text-gray-500">you have a message</p>
+  </div>
+</div>
+```
+
+## Tailwind CSS
+
+## vim
+
+- 普通模式 --NORMAL--
+- 插入模式 --INSERT--
+- 可视模式 --VISUAL--
+- 命令模式 :
+
+

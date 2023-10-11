@@ -101,3 +101,4 @@ if (rawVNode.shapeFlag & ShapeFlags.TEXT_CHILDREN) {
   console.log("不是");
 }
 ```
+

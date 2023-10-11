@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: 祖国的花朵
+  name: GANYMEDE
   tagline: 行百里者半九十
   actions:
     - theme: brand
